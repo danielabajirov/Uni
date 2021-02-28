@@ -4,7 +4,7 @@
 
 ## Considered Options
 
-* ggg
+* ggga
 
 ## Decision Outcome
 
