@@ -1,6 +1,7 @@
 # Etwas
 
 * Status: proposed
+
 ## Considered Options
 
 * ggg
