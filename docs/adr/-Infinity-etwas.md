@@ -8,4 +8,4 @@
 
 ## Decision Outcome
 
-Chosen option: ""
+Chosen option: "ggg"
